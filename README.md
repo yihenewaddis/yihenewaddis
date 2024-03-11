@@ -6,7 +6,7 @@ I'm Yihenew from Ethiopia, skilled in JavaScript, Python, Dart, and frameworks l
 
 Skills:   HTML , CSS, JS ,REACT ,React native,Dart,Flutter,python,django
 
-- 🔭 I’m currently working on My final year project 
+- 🔭 I’m currently working Flutter with django project
 - 💬 Ask me about React,React native,Flutter,and djano 
 
 
