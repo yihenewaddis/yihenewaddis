@@ -1,2 +1,2 @@
 ### Hi there 👋
-I'm yihenew from ethiopia, and I do content Development. I really enjoy learning languages like java_script,python and dart and frameworks like React, React Native ,flutter and django.
+I am Yihenew from Ethiopia, and I specialize in content creation related to development. I have a strong passion for learning programming languages such as JavaScript, Python, and Dart, as well as utilizing frameworks like React, React Native, Flutter, and Django.
