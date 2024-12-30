@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is yihenew
 #### I am software developer
-![i am software developer](https://res.cloudinary.com/practicaldev/image/fetch/s--V0ekZaVJ--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://thepracticaldev.s3.amazonaws.com/i/h68x0up43hmknl5tjcww.jpg)
+![i am software developer]([https://res.cloudinary.com/practicaldev/image/fetch/s--V0ekZaVJ--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://thepracticaldev.s3.amazonaws.com/i/h68x0up43hmknl5tjcww.jpg](https://www.michaelpage.com.au/sites/michaelpage.com.au/files/2022-01/Software%20Developer.jpg))
 
 I'm Yihenew from Ethiopia, skilled in JavaScript, Python, Dart, and frameworks like React, React Native,Express js, Flutter, and Django. Constantly learning and staying updated in the field of development.
 
